@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:facuspreafico@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/FacundoSpreafico)
 
-Backend developer en la **Municipalidad de Santa Fe** y estudiante de 5.º año de **Ingeniería en Sistemas de Información** (UTN FRSF).
+Software Developer en **Municipalidad de Santa Fe** y estudiante de 5.º año de **Ingeniería en Sistemas de Información** (UTN FRSF).
 
 - 📍 Santa Fe, Argentina
 - ⚙️ Backend con **Java, Spring Boot y Go**: APIs REST, microservicios, testing en capas y CI/CD en producción.
