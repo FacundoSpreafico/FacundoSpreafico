@@ -1,6 +1,6 @@
 ## Facundo Spreáfico
 
-Backend developer en la Municipalidad de Santa Fe. Construyo APIs y sistemas en Java, Spring Boot y Go, y trabajo con agentes de IA integrados a sistemas reales.
+Software Developer en la Municipalidad de Santa Fe. Construyo APIs y sistemas en Java, Spring Boot y Go, y trabajo con agentes de IA integrados a sistemas reales.
 
 Estudiante de 5.º año de Ingeniería en Sistemas de Información, UTN FRSF · Santa Fe, Argentina
 
