@@ -64,6 +64,9 @@ Backend developer en la **Municipalidad de Santa Fe** y estudiante de 5.º año 
 ## 📊 GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FacundoSpreafico&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacundoSpreafico&layout=compact&theme=github_dark&hide_border=true" alt="Lenguajes más usados" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FacundoSpreafico&theme=github_dark" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FacundoSpreafico&theme=github_dark" alt="Lenguajes por repo" />
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com/?user=FacundoSpreafico&theme=github-dark-blue&hide_border=true" alt="Racha de contribuciones" />
 </p>
